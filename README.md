@@ -1,6 +1,6 @@
 <h1>Exercicio 1</h1>
 
-Faça uma função que, dada uma determinada lista de palavras passada como
+1. Faça uma função que, dada uma determinada lista de palavras passada como
 argumento, retorne uma nova lista contendo o seu conteúdo em ordem crescente (da
 menor palavra para a maior palavra – considerando a quantidade de caracteres)
 
